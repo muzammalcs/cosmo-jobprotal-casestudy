@@ -178,5 +178,7 @@ docker-compose up --build
 Accessing the Application:
 
 The Laravel backend will be accessible at http://localhost:9000
+
 The React frontend will be accessible at http://localhost:3000
+
 This setup provides a clear separation of concerns with a dedicated service for the backend, frontend, and database. The Docker containers ensure consistent development and deployment environments.
