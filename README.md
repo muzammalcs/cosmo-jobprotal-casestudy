@@ -11,3 +11,5 @@ Creating a Docker setup for a job portal application using Laravel (backend) and
     │   ├── Dockerfile
     │   ├── ...
     ├── docker-compose.yml
+
+![image](https://github.com/user-attachments/assets/c884ab95-87f2-44b1-9b3a-a78a94eb3021)
